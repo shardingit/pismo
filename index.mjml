@@ -1,0 +1,164 @@
+<mjml padding="0">
+  <mj-head>
+    <mj-title>Покрытие из резиновой крошки</mj-title>
+    <mj-preview>Резиновое покрытие</mj-preview>
+    <mj-style>
+      h1{
+        style="inherit"
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="640px">
+  <mj-section background-color="#313131" padding="0">
+      <mj-column>
+        <mj-text padding="10px"color="#F08080" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h1>Бесшовное резиновое покрытие</h1>
+        </mj-text>
+        <mj-text padding="0px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h2>Лидирующая технология, применяемая для обустройства уличных территорий</h2> <br> <br>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#313131" padding="20px">
+      <mj-column padding-bottom="30px">
+        <mj-image padding="0" src="Без имени-1.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3d3d3d" padding="0">
+      <mj-column>
+        <mj-text padding="0px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h1>Что это?!</h1>
+        </mj-text>
+        <mj-text padding="10px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h2>Бесшовное резиновое покрытие - это смесь резиновой крошки пигмента и полиуретанового связующего</h2>
+        </mj-text>
+    </mj-section >
+      <mj-wrapper padding="0">
+         <mj-section padding="0px 40px 20px " padding-bottom="30px" background-color="#3d3d3d" >
+          <mj-column>
+            <mj-image width="100px"  src="Крошка.jpg" alt="" /></mj-column>
+          <mj-column>
+            <mj-image width="100px" src="пигмент.jpg" alt="" /></mj-column>
+          <mj-column >
+            <mj-image width="100px" src="клей.jpg" alt="" /></mj-column>
+        </mj-section> 
+      </mj-wrapper>
+  
+  <mj-section background-color="#313131" padding="0">
+      <mj-column>
+        <mj-text padding="10px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h1>Для чего?!</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#313131">
+      <mj-column width="200px" padding-bottom="30px">
+        <mj-text padding="0px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <ul style="margin:0; margin-left: 10px; padding:0; font-size:16px; line-height:16px;" align="left" type="disc">
+    <li>
+        Травмобезопасность для детских площадок как внутри помещений, так и на открытом воздухе
+    </li>
+    <li>
+        Покрытие площадок, беговых дорожек, кортов, стадионов и других спортивных объектов для занятия профессиональным и любительским видом спорта
+    </li>
+    <li>
+        Придание эстетического вида дорожкам, детским площадкам, прогулочным зонам…
+    </li>
+    <li>
+        Сохранение оснований площадок, дорожек…, от атмосферных и механических воздействий
+    </li>
+      </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image src="коллаж.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3d3d3d" padding="0">
+      <mj-column>
+        <mj-text padding="10px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="10px">
+          <h1>Применение</h1>
+        </mj-text>
+        <mj-text padding="0px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="20px">
+          <h2>В зависимости от типа резиновой крошки существуют рекомендации для их применения</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3d3d3d">
+      <mj-column width="200px" padding-bottom="30px">
+        <mj-text padding="0px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <ul style="margin:0; margin-left: 10px; padding: 0; font-size:16px; line-height:16px;" align="left" type="disc">
+           <li>
+        EPDM крошка, в силу повышенных амортизирующих свойств в основном применяется на детских площадках. Она более травмобезопасна и имеет более насыщенные цвета, которые не стираются во время эксплуатации, но цена данной продукции гораздо выше чем крошки SBR
+           </li>
+           <li>
+        SBR крошка, наиболее распространенный вид покрытия. Применяется на профессиональных спортивных площадках, так-как является менее амортизирующей по своим свойствам, что для спортсменов является обязательным условием. Так-же ее укладывают для выделения парковочных мест, остановочных пунктов, укладки прогулочных и садовых дорожек, ступеней, дорожек вокруг бассейнов а так-же где есть необходимость антискользящего покрытия.
+           </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column width="250px" padding-bottom="30px">
+        <mj-image  padding="20px" src="IMG_5595 2.jpg" alt="" />
+        <mj-image padding="20px" src="#" alt="" />
+        <mj-image padding="20px" padding-top="150px" src="парковка.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#313131" padding="0">
+      <mj-column>
+        <mj-text padding="10px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h1>Преимущества</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#313131">
+      <mj-column width="200px" padding-bottom="30px">
+        <mj-text padding="0px"color="#ffffff" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <ul style="margin:0; margin-left: 10px; padding:0; font-size:16px; line-height:16px;" align="left" type="disc">
+    <li>
+        Повышенная температурная эксплуатация (-40 - +70)
+    </li>
+    <li>
+        Травмобезопасность
+    </li>
+    <li>
+        Антискольжение (применяется для дорожек вокруг бассейна, для комфортного подхода к воде)
+    </li>
+    <li>
+        Износостойкость (класс 41-43)
+    </li>
+    <li>
+        Долговечность (срок эксплуатации от 20 лет)
+    </li>
+    <li>
+        Ремонтопригодность (Легко отремонтировать механические повреждения)
+    </li>
+    <li>
+        Широкая цветовая палитра (дети в восторге!)
+    </li>
+      </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column width="250px">
+        <mj-image padding="20px" src="Басик.jpg" alt="" />
+        <mj-image padding="20px" src="класики.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section background-color="#B0C4DE" padding="0">
+      <mj-column padding-bottom="40px">
+        <mj-text padding="10px"color="#000000" font-weight="bold" align="center" font-family="Times New Roman" line-height="40px">
+          <h1>КОНТАКТЫ:</h1>
+        </mj-text>
+        <mj-text padding="0px" color="#000000" font-weight="bold" align="center" font-family="Times New Roman" line-height="10px" >
+          <h2>г. Челябинск</h2>
+          <h2>+7(912) 311 - 66 - 76</h2>
+          <h2>+7(919) 310 - 53 - 91</h2>
+        </mj-text >
+      </mj-column >
+    </mj-section>
+  </mj-body>
+
+  
+ </mjml> 
